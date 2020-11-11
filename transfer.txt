@@ -1,0 +1,3 @@
+
+Amount-transferred : 4000.0
+New-Balance : 70000.0

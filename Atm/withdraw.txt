@@ -1,0 +1,2 @@
+Amount-deducted : 5000.0
+New-Balance : 70000.0

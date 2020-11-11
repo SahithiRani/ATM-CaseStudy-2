@@ -1,0 +1,2 @@
+Amount-deposited : 4000.0
+New-Balance : 74000.0
